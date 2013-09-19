@@ -1,4 +1,4 @@
-vimfiles
-========
+vim-emacs-clojure-starter-kit
+=============================
 
-.vimrc and other useful stuff
+my attempt at getting vim and emacs users started with clojure
